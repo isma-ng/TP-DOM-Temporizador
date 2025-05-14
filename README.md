@@ -9,9 +9,9 @@
 - JavaScript (Lógica del temporizador)
 
 ## 📋 Funcionalidades
-✔️ Ingresar tiempo personalizado (horas, minutos, segundos).
-✔️ Contador decremental con formato HH:MM:SS.
-✔️ Botones de control:
+- ✔️ Ingresar tiempo personalizado (horas, minutos, segundos).
+- ✔️ Contador decremental con formato HH:MM:SS.
+- ✔️ Botones de control:
 
 - ▶️ Iniciar: Comienza el conteo.
 
